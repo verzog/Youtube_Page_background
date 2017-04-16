@@ -1,0 +1,9 @@
+#page-header {
+    color: #000;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.page-context-header .page-header-headings h1 {
+    display: block;
+    margin-left: 1%;
+}
