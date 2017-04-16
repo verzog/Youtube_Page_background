@@ -1,0 +1,9 @@
+html, body {
+   background: none;
+  background-size: 100% auto;
+}
+
+.course-content .single-section {
+    background-color: white;
+    padding-bottom: 20px;
+}
