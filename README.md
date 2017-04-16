@@ -11,3 +11,8 @@ Also included in this repository are a selection of simple css themefixes you ca
 
 To use simple drag the Youtube_Page_background.txt (aka bundle) onto the green bundle button when making a new Generico filter. 
 
+	
+Modified for Moodle by Vernon Spain
+  
+Code Sourced from http://thenewcode.com/500/Use-YouTube-Videos-as-Fullscreen-Web-Page-Backgrounds
+
