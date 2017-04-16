@@ -1,0 +1,15 @@
+#page-content div.container {
+   background: transparent;
+}
+
+#block-region-side-pre {
+    background-color: white;
+}
+#region-main {
+    box-sizing: border-box;
+    padding: 41px 3px 20px 20px;
+    margin: 0 -35px 0 0;
+}
+.container {
+    width: 1270px;
+}
